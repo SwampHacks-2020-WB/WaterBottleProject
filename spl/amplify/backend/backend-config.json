@@ -1,0 +1,9 @@
+{
+	"function": {
+		"spl54414a0d": {
+			"service": "Lambda",
+			"providerPlugin": "awscloudformation",
+			"build": true
+		}
+	}
+}
