@@ -1,7 +1,9 @@
 # Android
 #
+spl/android/build/
 build/
 .idea
+spl/android/.gradle
 .gradle
 local.properties
 *.iml
@@ -9,5 +11,6 @@ local.properties
 # node.js
 #
 node_modules/
+spl/node_modules/
 npm-debug.log
 yarn-error.log
