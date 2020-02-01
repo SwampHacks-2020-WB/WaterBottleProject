@@ -4,9 +4,6 @@ import android.os.Bundle;
 
 import com.facebook.react.ReactActivity;
 
-import org.json.JSONException;
-import org.json.JSONObject;
-
 import io.radar.sdk.Radar;
 
 public class MainActivity extends ReactActivity {
@@ -20,17 +17,17 @@ public class MainActivity extends ReactActivity {
         return "ReactNativeStarter";
     }
 
-//    @Override
-//    protected void onCreate(Bundle savedInstanceState) {
-//        super.onCreate(savedInstanceState);
-//
-////        Radar.initialize(this);
-////        Radar.setPlacesProvider(Radar.RadarPlacesProvider.FACEBOOK);
-////        Radar.requestPermissions(this);
-////        Radar.startTracking();
-//
-//    // ...
-//    }
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        String publishableKey = "prj_test_pk_cbe58927022937762247a6a4eedf1633f442bf65"; // Test Key
+        Radar.initialize(publishableKey);
+//        Radar.setPlacesProvider(Radar.RadarPlacesProvider.FACEBOOK);
+//        Radar.requestPermissions(this);
+        Radar.startTracking();
+
+    // ...
+    }
 //
 //    public class MyFirebaseInstanceIdService extends FirebaseInstanceIdService {
 //
