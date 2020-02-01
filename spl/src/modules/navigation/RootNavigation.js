@@ -1,6 +1,7 @@
 import React from 'react';
 import { Image, TouchableOpacity, Dimensions } from 'react-native';
-import { createAppContainer, createStackNavigator } from 'react-navigation';
+import { createAppContainer } from 'react-navigation';
+import { createStackNavigator } from 'react-navigation-stack';
 
 import MainTabNavigator from './MainTabNavigator';
 
@@ -27,8 +28,8 @@ const stackNavigator = createStackNavigator(
       screen: MainTabNavigator,
       navigationOptions: () => ({
         title: 'React Native Starter',
-        headerLeft: null,
-        headerBackground: (
+        headerLeft: () => null,
+        headerBackground: () => (
           <Image
             style={{
               flex: 1,
@@ -86,7 +87,7 @@ const stackNavigator = createStackNavigator(
         backgroundColor: colors.primary,
         borderBottomWidth: 0,
       },
-      headerBackground: (
+      headerBackground: () => (
         <Image
           style={{ flex: 1 }}
           source={headerBackground}
@@ -98,7 +99,7 @@ const stackNavigator = createStackNavigator(
         fontFamily: fonts.primaryRegular,
       },
       headerTintColor: '#222222',
-      headerLeft: props => (
+      headerLeft: () => props (
         <TouchableOpacity
           onPress={props.onPress}
           style={{

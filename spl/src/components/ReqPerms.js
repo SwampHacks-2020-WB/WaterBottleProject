@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
 import { AppRegistry, StyleSheet, Text, View } from 'react-native';
 import Radar from 'react-native-radar';
+import Toast from 'react-native-simple-toast';
+ 
+Toast.show('You is a toast.');
 
 export default class MyComponent extends Component {
 
@@ -24,7 +27,7 @@ export default class MyComponent extends Component {
 
 // receive events
 Radar.on('events', (result) => {
-  // do something with result.events, result.user
+  Toast.show('Gucci gang');
 });
 
 // receive location updates
