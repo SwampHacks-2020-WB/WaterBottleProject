@@ -2,6 +2,7 @@
 #
 spl/android/build/
 build/
+spl/package-lock.json
 .idea
 spl/android/.gradle
 .gradle
