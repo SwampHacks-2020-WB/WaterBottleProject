@@ -131,6 +131,7 @@ android {
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
         versionName "1.0"
+        multiDexEnabled true
     }
     signingConfigs {
         debug {
@@ -176,7 +177,14 @@ android {
 }
 
 dependencies {
-    implementation "com.facebook.react:react-native:+"  // From node_modules
+    implementation project(':react-native-radar')
+    implementation "com.facebook.react:react-native:0.20.1"  // From node_modules
+    implementation 'com.android.support:multidex:1.0.3'
+    api 'com.facebook.react:react-native:0.20.1'
+    api 'io.radar:sdk:'
+    
+    implementation "com.google.firebase:firebase-firestore:21.4.0"
+    implementation "com.google.firebase:firebase-auth:19.2.0"
 
     if (enableHermes) {
         def hermesPath = "../../node_modules/hermes-engine/android/";

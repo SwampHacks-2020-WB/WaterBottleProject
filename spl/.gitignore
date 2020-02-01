@@ -30,7 +30,8 @@ build/
 local.properties
 *.iml
 !debug.keystore
-
+android/build/
+android/.gradle/
 # node.js
 #
 node_modules/

@@ -8,8 +8,13 @@ import {
 
 import { fonts, colors } from '../../styles';
 import { Text } from '../../components/StyledText';
+import ReqPerms from '../../components';
+import Toast from 'react-native-simple-toast';
+ 
 
 export default function HomeScreen({ isExtended, setIsExtended }) {
+  Toast.show('Bruh.');
+
   // const rnsUrl = 'https://reactnativestarter.com';
   // const handleClick = () => {
   //   Linking.canOpenURL(rnsUrl).then(supported => {
@@ -44,27 +49,15 @@ export default function HomeScreen({ isExtended, setIsExtended }) {
         <View style={[styles.section, styles.sectionLarge]}>
           <Text color="#19e7f7" hCenter size={15} style={styles.description}>
             {' '}
-            A powerful starter project that bootstraps development of your
+            A BABAB starter project that bootstraps development of your
             mobile application and saves you $20 000*
           </Text>
           <View style={styles.priceContainer}>
             <View style={{ flexDirection: 'row' }}>
               <Text white bold size={50} style={styles.price}>
-                {isExtended ? '$199.95' : '$49.95'}
+                {ReqPerms ? '$199.95' : '$49.95'}
               </Text>
             </View>
-            <TouchableOpacity
-              style={styles.priceLink}
-              onPress={() =>
-                isExtended ? setIsExtended(false) : setIsExtended(true)
-              }
-            >
-              <Text white size={14}>
-                {isExtended
-                  ? 'Multiple Applications License'
-                  : 'Single Application License'}
-              </Text>
-            </TouchableOpacity>
           </View>
         </View>
       </ImageBackground>
@@ -119,3 +112,5 @@ const styles = StyleSheet.create({
     borderBottomColor: colors.primary,
   },
 });
+
+Toast.show('Bruh.');

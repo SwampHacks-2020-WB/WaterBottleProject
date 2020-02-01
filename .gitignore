@@ -1,7 +1,10 @@
 # Android
 #
+spl/android/build/
 build/
+spl/package-lock.json
 .idea
+spl/android/.gradle
 .gradle
 local.properties
 *.iml
@@ -9,5 +12,8 @@ local.properties
 # node.js
 #
 node_modules/
+spl/node_modules/
 npm-debug.log
 yarn-error.log
+package-lock.json
+yarn.lock
