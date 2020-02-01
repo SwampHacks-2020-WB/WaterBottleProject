@@ -86,7 +86,7 @@ export default function PagesScreen(props) {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: colors.white,
+    backgroundColor: colors.black,
     paddingTop: 10,
   },
   row: {

@@ -1,232 +1,232 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:1:1-26:12
-MERGED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:1:1-26:12
-MERGED from [hermes-debug.aar] /home/aaahh/.gradle/caches/transforms-2/files-2.1/f69078a90312175bffc3f798535b9083/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-gesture-handler] /home/aaahh/WaterBottleProject/react-native-starter/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-localize] /home/aaahh/WaterBottleProject/react-native-starter/node_modules/react-native-localize/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-vector-icons] /home/aaahh/WaterBottleProject/react-native-starter/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.react:react-native:0.61.5] /home/aaahh/.gradle/caches/transforms-2/files-2.1/e52c56ab330337bfc3db10aad545fb98/AndroidManifest.xml:2:1-13:12
-MERGED from [:react-native-linear-gradient] /home/aaahh/WaterBottleProject/react-native-starter/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat:1.0.2] /home/aaahh/.gradle/caches/transforms-2/files-2.1/5d6fcfdfe0dc08ac21068f6ae3c7a965/AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.fresco:fresco:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/72a878924a0997521b031b16bfaa9252/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/d32870815ecea2efe7a893cd074a5ad9/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:drawee:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/5c45701669892f6691cca0bbc15897e4/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/311a6ada735b9b140257b7b96329fae8/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/1f5f7cbb57c9aa64ab552acd73a01f95/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/af0628d1ac60898da91f5f03aaf79912/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/f499c861718e43e8405d11f28f56dbec/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.6.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/d014b0225478da1e5ea369ccef9f367d/AndroidManifest.xml:2:1-13:12
-MERGED from [androidx.fragment:fragment:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/75ed935f161e12c41a701c6e647a6a3c/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/cc095578c4e556220c3a2b9bd21d4b20/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/ef0183825594b84fb56568e204c3be5f/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/d62fc4533d2692bc6acf59490baa2986/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/aaahh/.gradle/caches/transforms-2/files-2.1/68f23db7ef0ae71a62f4e7f782d7d640/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/499e498ede424892385195ac1672c269/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/976291e001e8eef2f8c76e01e8e1981d/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/6616006dd5a5d6f5c7c2c4f2e3985548/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/d8cc27cddd8134ba6fd9fe6cbcc9d78b/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/b83e747a00816aa948b8e5f81078bd35/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/dce16b68163849d4cf1d60019a402f0b/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/61379ab2d9a632e9e86d87af105b30f9/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/a7279651fb2bdf8d3aee3ae3c34dbe1f/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.0.1] /home/aaahh/.gradle/caches/transforms-2/files-2.1/e4b435565daa46a638df10e632d7cc05/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/fb620c99e84fdce3c270713efb6592e3/AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/d45f304c33e7b74ead77f772e9fe0082/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/0293cbc526cb5c27609cd864f9f5da3e/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/928518350b4a9a98d09582500957766a/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/3c964132f480fdd5364362c4d5a8f07e/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/572b9bc79b38a1e6d1fd3e1e02ef1576/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/2015a7318501db759ec8a353595b41f9/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/b2d4d02ecbafabcbecf1e0fee95b00cf/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/bf9a42db06bf6ddbff8c456594168e51/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/a59ca149874874f1fdf780183e927f19/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/eb3ddeccc5456e043286119cc10ccd53/AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/11aeac2161c9a9161610bce65ba1ca1a/AndroidManifest.xml:2:1-9:12
-INJECTED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/debug/AndroidManifest.xml:2:1-8:12
-INJECTED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/debug/AndroidManifest.xml:2:1-8:12
-INJECTED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [hermes-debug.aar] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\63088359a21a0ef1bbb9e5f094321ce4\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-gesture-handler] C:\Users\nicks\water\WaterBottleProject\spl\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-localize] C:\Users\nicks\water\WaterBottleProject\spl\node_modules\react-native-localize\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] C:\Users\nicks\water\WaterBottleProject\spl\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\fa19195946d83777bea636892c8166da\AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-linear-gradient] C:\Users\nicks\water\WaterBottleProject\spl\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\056eb2ee5d852a82ff2787e5bd69877d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\358dc7ffada5a9ffb6c5b5905592ada8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\fcf32c6abad4349716a0ab79e5be0bc6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\c18459bec0dad31028e5b46587550fc9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\ca8c9298af142c4670dc58d6213f7adc\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\d438a00151d26ba4dc6bc7d35d1e63c8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\731d31d282f7494c25fe9a50bff841df\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\1db4f143b5b66202e4a4b759955d916f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\55ef7cbe1038c31e7bb63a0e0e13bae9\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\66689a3135dc9e20463892417324dc14\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\6d98a916873b92ad84570f401fe66c3d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\52103d45a65003589701cb42579873a5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\fd47204585ed70f43b6b5ea71ca68b0d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\623476035fcb69c65f62987e0395a7f1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\98428f80bf96952043685d909752672b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\eba655e76d671c468a27f1eef9f91661\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\67312b2b7446c8c0bcb55e2527aef73b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\16eaa38730573ea250a5c379c9896caa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\2df88db8f376bf1360da743137141a8d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\a8768a3f896c35a76d7b39cc9e8a582b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\f9137a66614c7253bd1eeccf1623059f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\07d6b26ff8090c8dff31af05e7a54655\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\a835b6ce972522f79d8115bf2bf59218\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\26c9277805fb8245d4e8321a565f1503\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\590108a528a87205efb324ca0c6a91ba\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\5d155cb9cc53d6f725488ef4fc5cbbff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\0a449775b056f78d3d21804d385c2fdd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\e5988d35d37700eaeaa6434e4dd4a048\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\145603478e7754bce3c8f5179769dd7c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\6bafcdf6aaea65829b35f1491a0b359e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\948fdabc2238ab443c8d536ba80fbad4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\232ea8480228ae1552b23fb030d764dc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\e8caf4fe1f5b867b72dc0e8e4c9c185b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\8b9783850766f31fbe73a1d8aa230af7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\f3b2001ce8de806e540a6a183d888d53\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\debug\AndroidManifest.xml:2:1-8:12
 	package
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:2:3-35
-		INJECTED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:2:3-35
-		INJECTED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/debug/AndroidManifest.xml
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:2:3-35
+		INJECTED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:2:3-35
+		INJECTED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\debug\AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:1:1-26:12
-		INJECTED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/debug/AndroidManifest.xml
+		INJECTED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\debug\AndroidManifest.xml
 	xmlns:tools
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/debug/AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\debug\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:1:1-26:12
-		INJECTED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/debug/AndroidManifest.xml
+		INJECTED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\debug\AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:4:5-67
+ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:4:22-64
 application
-ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from [com.facebook.react:react-native:0.61.5] /home/aaahh/.gradle/caches/transforms-2/files-2.1/e52c56ab330337bfc3db10aad545fb98/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.61.5] /home/aaahh/.gradle/caches/transforms-2/files-2.1/e52c56ab330337bfc3db10aad545fb98/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.soloader:soloader:0.6.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/d014b0225478da1e5ea369ccef9f367d/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.soloader:soloader:0.6.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/d014b0225478da1e5ea369ccef9f367d/AndroidManifest.xml:11:5-20
-MERGED from [androidx.core:core:1.0.1] /home/aaahh/.gradle/caches/transforms-2/files-2.1/e4b435565daa46a638df10e632d7cc05/AndroidManifest.xml:22:5-89
-MERGED from [androidx.core:core:1.0.1] /home/aaahh/.gradle/caches/transforms-2/files-2.1/e4b435565daa46a638df10e632d7cc05/AndroidManifest.xml:22:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/fb620c99e84fdce3c270713efb6592e3/AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/fb620c99e84fdce3c270713efb6592e3/AndroidManifest.xml:22:5-23:19
+ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\fa19195946d83777bea636892c8166da\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\fa19195946d83777bea636892c8166da\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\55ef7cbe1038c31e7bb63a0e0e13bae9\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\55ef7cbe1038c31e7bb63a0e0e13bae9\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\a835b6ce972522f79d8115bf2bf59218\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\a835b6ce972522f79d8115bf2bf59218\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\26c9277805fb8245d4e8321a565f1503\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\26c9277805fb8245d4e8321a565f1503\AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.0.1] /home/aaahh/.gradle/caches/transforms-2/files-2.1/e4b435565daa46a638df10e632d7cc05/AndroidManifest.xml:22:18-86
+		ADDED from [androidx.core:core:1.0.1] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\a835b6ce972522f79d8115bf2bf59218\AndroidManifest.xml:22:18-86
 	android:label
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:8:7-39
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:8:7-39
 	tools:ignore
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/debug/AndroidManifest.xml:7:75-114
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\debug\AndroidManifest.xml:7:75-114
 	android:roundIcon
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:10:7-52
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:10:7-52
 	tools:targetApi
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/debug/AndroidManifest.xml:7:54-74
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\debug\AndroidManifest.xml:7:54-74
 	android:icon
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:9:7-41
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:9:7-41
 	android:allowBackup
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:11:7-34
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:11:7-34
 	android:theme
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:12:7-38
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:12:7-38
 	android:usesCleartextTraffic
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/debug/AndroidManifest.xml:7:18-53
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\debug\AndroidManifest.xml:7:18-53
 	android:name
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:7:7-38
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:7:7-38
 activity#com.reactnativestarter.MainActivity
-ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:13:7-22:18
+ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:13:7-22:18
 	android:label
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:15:9-41
 	android:windowSoftInputMode
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:17:9-51
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:17:9-51
 	android:configChanges
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:16:9-79
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:16:9-79
 	android:name
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:14:9-37
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:14:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:18:9-21:25
+ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:18:9-21:25
 action#android.intent.action.MAIN
-ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:19:13-65
+ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:19:13-65
 	android:name
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:19:21-62
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:19:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:20:13-73
+ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:20:13-73
 	android:name
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:20:23-70
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:20:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:23:7-84
+ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:23:7-84
 	android:name
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml:23:17-81
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml:23:17-81
 uses-sdk
-INJECTED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml
-INJECTED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml
-MERGED from [hermes-debug.aar] /home/aaahh/.gradle/caches/transforms-2/files-2.1/f69078a90312175bffc3f798535b9083/AndroidManifest.xml:5:5-44
-MERGED from [hermes-debug.aar] /home/aaahh/.gradle/caches/transforms-2/files-2.1/f69078a90312175bffc3f798535b9083/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-gesture-handler] /home/aaahh/WaterBottleProject/react-native-starter/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-gesture-handler] /home/aaahh/WaterBottleProject/react-native-starter/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-localize] /home/aaahh/WaterBottleProject/react-native-starter/node_modules/react-native-localize/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-localize] /home/aaahh/WaterBottleProject/react-native-starter/node_modules/react-native-localize/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-vector-icons] /home/aaahh/WaterBottleProject/react-native-starter/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-vector-icons] /home/aaahh/WaterBottleProject/react-native-starter/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.61.5] /home/aaahh/.gradle/caches/transforms-2/files-2.1/e52c56ab330337bfc3db10aad545fb98/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.61.5] /home/aaahh/.gradle/caches/transforms-2/files-2.1/e52c56ab330337bfc3db10aad545fb98/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-linear-gradient] /home/aaahh/WaterBottleProject/react-native-starter/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-linear-gradient] /home/aaahh/WaterBottleProject/react-native-starter/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.appcompat:appcompat:1.0.2] /home/aaahh/.gradle/caches/transforms-2/files-2.1/5d6fcfdfe0dc08ac21068f6ae3c7a965/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.2] /home/aaahh/.gradle/caches/transforms-2/files-2.1/5d6fcfdfe0dc08ac21068f6ae3c7a965/AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.fresco:fresco:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/72a878924a0997521b031b16bfaa9252/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/72a878924a0997521b031b16bfaa9252/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/d32870815ecea2efe7a893cd074a5ad9/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/d32870815ecea2efe7a893cd074a5ad9/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/5c45701669892f6691cca0bbc15897e4/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/5c45701669892f6691cca0bbc15897e4/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/311a6ada735b9b140257b7b96329fae8/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/311a6ada735b9b140257b7b96329fae8/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/1f5f7cbb57c9aa64ab552acd73a01f95/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/1f5f7cbb57c9aa64ab552acd73a01f95/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/af0628d1ac60898da91f5f03aaf79912/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/af0628d1ac60898da91f5f03aaf79912/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/f499c861718e43e8405d11f28f56dbec/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/f499c861718e43e8405d11f28f56dbec/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.6.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/d014b0225478da1e5ea369ccef9f367d/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.soloader:soloader:0.6.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/d014b0225478da1e5ea369ccef9f367d/AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.fragment:fragment:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/75ed935f161e12c41a701c6e647a6a3c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/75ed935f161e12c41a701c6e647a6a3c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/cc095578c4e556220c3a2b9bd21d4b20/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/cc095578c4e556220c3a2b9bd21d4b20/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/ef0183825594b84fb56568e204c3be5f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/ef0183825594b84fb56568e204c3be5f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/d62fc4533d2692bc6acf59490baa2986/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/d62fc4533d2692bc6acf59490baa2986/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/aaahh/.gradle/caches/transforms-2/files-2.1/68f23db7ef0ae71a62f4e7f782d7d640/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/aaahh/.gradle/caches/transforms-2/files-2.1/68f23db7ef0ae71a62f4e7f782d7d640/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/499e498ede424892385195ac1672c269/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/499e498ede424892385195ac1672c269/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/976291e001e8eef2f8c76e01e8e1981d/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/976291e001e8eef2f8c76e01e8e1981d/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/6616006dd5a5d6f5c7c2c4f2e3985548/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/6616006dd5a5d6f5c7c2c4f2e3985548/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/d8cc27cddd8134ba6fd9fe6cbcc9d78b/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/d8cc27cddd8134ba6fd9fe6cbcc9d78b/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/b83e747a00816aa948b8e5f81078bd35/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/b83e747a00816aa948b8e5f81078bd35/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/dce16b68163849d4cf1d60019a402f0b/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/dce16b68163849d4cf1d60019a402f0b/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/61379ab2d9a632e9e86d87af105b30f9/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/61379ab2d9a632e9e86d87af105b30f9/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/a7279651fb2bdf8d3aee3ae3c34dbe1f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/a7279651fb2bdf8d3aee3ae3c34dbe1f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.1] /home/aaahh/.gradle/caches/transforms-2/files-2.1/e4b435565daa46a638df10e632d7cc05/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.1] /home/aaahh/.gradle/caches/transforms-2/files-2.1/e4b435565daa46a638df10e632d7cc05/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/fb620c99e84fdce3c270713efb6592e3/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/fb620c99e84fdce3c270713efb6592e3/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/d45f304c33e7b74ead77f772e9fe0082/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/d45f304c33e7b74ead77f772e9fe0082/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/0293cbc526cb5c27609cd864f9f5da3e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/0293cbc526cb5c27609cd864f9f5da3e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/928518350b4a9a98d09582500957766a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/928518350b4a9a98d09582500957766a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/3c964132f480fdd5364362c4d5a8f07e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/3c964132f480fdd5364362c4d5a8f07e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/572b9bc79b38a1e6d1fd3e1e02ef1576/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/572b9bc79b38a1e6d1fd3e1e02ef1576/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/2015a7318501db759ec8a353595b41f9/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/2015a7318501db759ec8a353595b41f9/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/b2d4d02ecbafabcbecf1e0fee95b00cf/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/b2d4d02ecbafabcbecf1e0fee95b00cf/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/bf9a42db06bf6ddbff8c456594168e51/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/bf9a42db06bf6ddbff8c456594168e51/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/a59ca149874874f1fdf780183e927f19/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/a59ca149874874f1fdf780183e927f19/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/eb3ddeccc5456e043286119cc10ccd53/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/eb3ddeccc5456e043286119cc10ccd53/AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/11aeac2161c9a9161610bce65ba1ca1a/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/aaahh/.gradle/caches/transforms-2/files-2.1/11aeac2161c9a9161610bce65ba1ca1a/AndroidManifest.xml:5:5-7:41
-INJECTED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/debug/AndroidManifest.xml
-INJECTED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/debug/AndroidManifest.xml
+INJECTED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml
+MERGED from [hermes-debug.aar] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\63088359a21a0ef1bbb9e5f094321ce4\AndroidManifest.xml:5:5-44
+MERGED from [hermes-debug.aar] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\63088359a21a0ef1bbb9e5f094321ce4\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-gesture-handler] C:\Users\nicks\water\WaterBottleProject\spl\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\nicks\water\WaterBottleProject\spl\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-localize] C:\Users\nicks\water\WaterBottleProject\spl\node_modules\react-native-localize\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-localize] C:\Users\nicks\water\WaterBottleProject\spl\node_modules\react-native-localize\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] C:\Users\nicks\water\WaterBottleProject\spl\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\nicks\water\WaterBottleProject\spl\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\fa19195946d83777bea636892c8166da\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\fa19195946d83777bea636892c8166da\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] C:\Users\nicks\water\WaterBottleProject\spl\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] C:\Users\nicks\water\WaterBottleProject\spl\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\056eb2ee5d852a82ff2787e5bd69877d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\056eb2ee5d852a82ff2787e5bd69877d\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\358dc7ffada5a9ffb6c5b5905592ada8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\358dc7ffada5a9ffb6c5b5905592ada8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\fcf32c6abad4349716a0ab79e5be0bc6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\fcf32c6abad4349716a0ab79e5be0bc6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\c18459bec0dad31028e5b46587550fc9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\c18459bec0dad31028e5b46587550fc9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\ca8c9298af142c4670dc58d6213f7adc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\ca8c9298af142c4670dc58d6213f7adc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\d438a00151d26ba4dc6bc7d35d1e63c8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\d438a00151d26ba4dc6bc7d35d1e63c8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\731d31d282f7494c25fe9a50bff841df\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\731d31d282f7494c25fe9a50bff841df\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\1db4f143b5b66202e4a4b759955d916f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\1db4f143b5b66202e4a4b759955d916f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\55ef7cbe1038c31e7bb63a0e0e13bae9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\55ef7cbe1038c31e7bb63a0e0e13bae9\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\66689a3135dc9e20463892417324dc14\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\66689a3135dc9e20463892417324dc14\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\6d98a916873b92ad84570f401fe66c3d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\6d98a916873b92ad84570f401fe66c3d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\52103d45a65003589701cb42579873a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\52103d45a65003589701cb42579873a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\fd47204585ed70f43b6b5ea71ca68b0d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\fd47204585ed70f43b6b5ea71ca68b0d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\623476035fcb69c65f62987e0395a7f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\623476035fcb69c65f62987e0395a7f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\98428f80bf96952043685d909752672b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\98428f80bf96952043685d909752672b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\eba655e76d671c468a27f1eef9f91661\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\eba655e76d671c468a27f1eef9f91661\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\67312b2b7446c8c0bcb55e2527aef73b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\67312b2b7446c8c0bcb55e2527aef73b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\16eaa38730573ea250a5c379c9896caa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\16eaa38730573ea250a5c379c9896caa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\2df88db8f376bf1360da743137141a8d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\2df88db8f376bf1360da743137141a8d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\a8768a3f896c35a76d7b39cc9e8a582b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\a8768a3f896c35a76d7b39cc9e8a582b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\f9137a66614c7253bd1eeccf1623059f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\f9137a66614c7253bd1eeccf1623059f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\07d6b26ff8090c8dff31af05e7a54655\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\07d6b26ff8090c8dff31af05e7a54655\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\a835b6ce972522f79d8115bf2bf59218\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\a835b6ce972522f79d8115bf2bf59218\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\26c9277805fb8245d4e8321a565f1503\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\26c9277805fb8245d4e8321a565f1503\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\590108a528a87205efb324ca0c6a91ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\590108a528a87205efb324ca0c6a91ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\5d155cb9cc53d6f725488ef4fc5cbbff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\5d155cb9cc53d6f725488ef4fc5cbbff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\0a449775b056f78d3d21804d385c2fdd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\0a449775b056f78d3d21804d385c2fdd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\e5988d35d37700eaeaa6434e4dd4a048\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\e5988d35d37700eaeaa6434e4dd4a048\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\145603478e7754bce3c8f5179769dd7c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\145603478e7754bce3c8f5179769dd7c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\6bafcdf6aaea65829b35f1491a0b359e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\6bafcdf6aaea65829b35f1491a0b359e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\948fdabc2238ab443c8d536ba80fbad4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\948fdabc2238ab443c8d536ba80fbad4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\232ea8480228ae1552b23fb030d764dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\232ea8480228ae1552b23fb030d764dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\e8caf4fe1f5b867b72dc0e8e4c9c185b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\e8caf4fe1f5b867b72dc0e8e4c9c185b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\8b9783850766f31fbe73a1d8aa230af7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\8b9783850766f31fbe73a1d8aa230af7\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\f3b2001ce8de806e540a6a183d888d53\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\nicks\.gradle\caches\transforms-2\files-2.1\f3b2001ce8de806e540a6a183d888d53\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\debug\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/debug/AndroidManifest.xml
+		INJECTED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\debug\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/debug/AndroidManifest.xml
+		INJECTED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\debug\AndroidManifest.xml
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/debug/AndroidManifest.xml:5:5-77
+ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\debug\AndroidManifest.xml:5:5-77
 	android:name
-		ADDED from /home/aaahh/WaterBottleProject/react-native-starter/android/app/src/debug/AndroidManifest.xml:5:22-75
+		ADDED from C:\Users\nicks\water\WaterBottleProject\spl\android\app\src\debug\AndroidManifest.xml:5:22-75

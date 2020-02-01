@@ -26,7 +26,7 @@ const stackNavigator = createStackNavigator(
     Main: {
       screen: MainTabNavigator,
       navigationOptions: () => ({
-        title: 'React Native Starter',
+        title: 'Splash',
         headerLeft: null,
         headerBackground: (
           <Image

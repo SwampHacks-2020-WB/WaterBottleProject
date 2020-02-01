@@ -11,13 +11,14 @@ import GridsScreen from '../grids/GridsViewContainer';
 import PagesScreen from '../pages/PagesViewContainer';
 import ComponentsScreen from '../components/ComponentsViewContainer';
 
+//const iconMap = require('../../../assets/images/tabbar/map.png');
 const iconHome = require('../../../assets/images/tabbar/home.png');
 const iconCalendar = require('../../../assets/images/tabbar/calendar.png');
 const iconGrids = require('../../../assets/images/tabbar/grids.png');
 const iconPages = require('../../../assets/images/tabbar/pages.png');
 const iconComponents = require('../../../assets/images/tabbar/components.png');
 
-const hederBackground = require('../../../assets/images/topBarBg.png');
+const headerBackground = require('../../../assets/images/testTopBarBg.png');
 
 const styles = StyleSheet.create({
   tabBarItemContainer: {
@@ -58,7 +59,18 @@ const styles = StyleSheet.create({
 });
 
 export default createBottomTabNavigator(
-  {
+  {/*
+    Map: {
+      screen: MapScreen,
+      navigationOptions: {
+        header: null /*(
+          <     
+        ),
+	  },
+	},
+    */
+  
+
     Home: {
       screen: HomeScreen,
       navigationOptions: {
@@ -70,7 +82,7 @@ export default createBottomTabNavigator(
       navigationOptions: {
         header: (
           <View style={styles.headerContainer}>
-            <Image style={styles.headerImage} source={hederBackground} />
+            <Image style={styles.headerImage} source={headerBackground} />
             <Text style={styles.headerCaption}>Calendar</Text>
           </View>
         ),
@@ -81,7 +93,7 @@ export default createBottomTabNavigator(
       navigationOptions: {
         header: (
           <View style={styles.headerContainer}>
-            <Image style={styles.headerImage} source={hederBackground} />
+            <Image style={styles.headerImage} source={headerBackground} />
             <Text style={styles.headerCaption}>Grids</Text>
           </View>
         ),
@@ -92,7 +104,7 @@ export default createBottomTabNavigator(
       navigationOptions: {
         header: (
           <View style={styles.headerContainer}>
-            <Image style={styles.headerImage} source={hederBackground} />
+            <Image style={styles.headerImage} source={headerBackground} />
             <Text style={styles.headerCaption}>Pages</Text>
           </View>
         ),
@@ -103,7 +115,7 @@ export default createBottomTabNavigator(
       navigationOptions: {
         header: (
           <View style={styles.headerContainer}>
-            <Image style={styles.headerImage} source={hederBackground} />
+            <Image style={styles.headerImage} source={headerBackground} />
             <Text style={styles.headerCaption}>Components</Text>
           </View>
         ),
@@ -117,6 +129,9 @@ export default createBottomTabNavigator(
         const { routeName } = navigation.state;
         let iconSource;
         switch (routeName) {
+          case 'Map':
+            iconSource = iconMap;
+            break;
           case 'Home':
             iconSource = iconHome;
             break;

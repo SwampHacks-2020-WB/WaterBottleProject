@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/aaahh/WaterBottleProject/react-native-starter/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "C:\\Users\\nicks\\water\\WaterBottleProject\\spl\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "/home/aaahh/.gradle/caches/transforms-2/files-2.1/e4b435565daa46a638df10e632d7cc05/res/values-v16/values-v16.xml",
+                    "source": "C:\\Users\\nicks\\.gradle\\caches\\transforms-2\\files-2.1\\a835b6ce972522f79d8115bf2bf59218\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/aaahh/.gradle/caches/transforms-2/files-2.1/5d6fcfdfe0dc08ac21068f6ae3c7a965/res/values-v16/values-v16.xml",
+                    "source": "C:\\Users\\nicks\\.gradle\\caches\\transforms-2\\files-2.1\\056eb2ee5d852a82ff2787e5bd69877d\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -8,7 +8,7 @@ import { store, persistor } from './src/redux/store';
 
 import AppView from './src/modules/AppViewContainer';
 
-export default function App() {
+export default function App() { 
   return (
     <Provider store={store}>
       <PersistGate
@@ -31,6 +31,6 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: 'white',
+    backgroundColor: 'blue',
   },
 });

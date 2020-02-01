@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/aaahh/WaterBottleProject/react-native-starter/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "outputFile": "C:\\Users\\nicks\\water\\WaterBottleProject\\spl\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "/home/aaahh/.gradle/caches/transforms-2/files-2.1/5d6fcfdfe0dc08ac21068f6ae3c7a965/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "source": "C:\\Users\\nicks\\.gradle\\caches\\transforms-2\\files-2.1\\056eb2ee5d852a82ff2787e5bd69877d\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
